@@ -1,0 +1,9 @@
+brax==0.14.0
+jax==0.6.2
+jax-cosmo==0.1.0
+jax-cuda12-pjrt==0.6.2
+jax-cuda12-plugin==0.6.2
+jaxlib==0.6.2
+jaxopt==0.8.5
+mujoco==3.4.0
+mujoco-mjx==3.4.0
